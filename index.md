@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Jared8513/japen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jared8513/japen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学日语咯~</title>
+</head>
+<body>
+<h1>五十音</h1>
+<p>あ行 あ い う え お</p>
+<p>か行 か き く け こ</p>
+<p>さ行 さ し す せ そ</p>
+<p>た行 た ち つ て と</p>
+<p>な行 な に ぬ ね の</p>
+<p>は行 は ひ ふ へ ほ</p>
+<p>ま行 ま み む め も</p>
+<p>や行 や （い） ゆ （え） よ</p>
+<p>ら行 ら り る れ ろ</p>
+<p>わ行 わ （い） （う） （え） を</p>
+</body>
+</html>
